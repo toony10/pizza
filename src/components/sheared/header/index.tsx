@@ -5,7 +5,7 @@ import Navbar from './Navbar'
 export default function Header() {
     return (
         <header>
-            <div className='container flex justify-between items-center p-4'>
+            <div className='container flex justify-between items-center'>
                 <Link href={ Routes.ROOT } className='text-primary font-semibold text-2xl'>
                     🍕 PIZZA
                 </Link>
