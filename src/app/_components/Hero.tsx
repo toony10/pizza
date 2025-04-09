@@ -1,7 +1,7 @@
 import Image from 'next/image'
-import { Button, buttonVariants } from '@/components/ui/button'
+import { buttonVariants } from '@/components/ui/button'
 import { CircleArrowRight } from 'lucide-react';
-import Link from '@/components/sheared/link';
+import Link from '@/components/link';
 import { Routes } from '@/constants/enums';
 
 

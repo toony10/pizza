@@ -45,21 +45,21 @@
 
 :root {
     --background: oklch(100 0 0);
-    --foreground: oklch(4.9 84 222.2);
+    --foreground: oklch(0 0 0);
     --card: oklch(100 0 0);
     --card-foreground: oklch(4.9 84 222.2);
     --popover: oklch(100 0 0);
     --popover-foreground: oklch(4.9 84 222.2);
     --primary: oklch(47 99 14);
-    --primary-foreground: oklch(98 40 210);
+    --primary-foreground: oklch(0 0 0);
     --secondary: oklch(94.7% 0 260.031);
     --secondary-foreground: oklch(20.2% 0 260.031);
     --muted: oklch(96.1 40 210);
     --muted-foreground: oklch(46.9 16.3 215.4);
     --accent:oklch(40% 0.01 130);
     --accent-foreground: oklch(34 14 215);
-    --destructive: oklch(60.2 84.2 0);
-    --destructive-foreground: oklch(98 40 210);
+    --destructive: oklch(0 0 0);
+    --destructive-foreground: oklch(0 0 0);
     --border: oklch(91.4 31.8 214.3);
     --input: oklch(91.4 31.8 214.3);
     --ring: oklch(4.9 84 222.2);
